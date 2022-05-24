@@ -1,0 +1,1 @@
+Este arquivo é para aula comparando hash, curso da dio Segurança da informação com Python
